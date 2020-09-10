@@ -1,4 +1,4 @@
-# program to represent sparse matrix
+# program to represent sparse matrix by user defined function
 
 def displaymatrix(matrix):
     
